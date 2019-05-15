@@ -1,2 +1,2 @@
-# comix_dark-theme
-A Ryuzine theme with a dark, brooding comic book look
+# comix_dark
+Ryuzine theme with a dark comic book look
